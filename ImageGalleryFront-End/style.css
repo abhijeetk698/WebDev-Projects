@@ -1,0 +1,13 @@
+.navbar-inverse .navbar-nav>li>a {
+    color:white;
+}
+.jumbotron{
+    color:  #2C3E50;
+	background: #ecf0f1;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color:white;
+}
