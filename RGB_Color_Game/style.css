@@ -1,0 +1,33 @@
+body{
+    background-color: #232323; 
+}
+
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.box{
+    width:30%;
+    background-color: purple;
+    float: left;
+    padding-bottom: 30%;
+    margin:1.66%;
+}
+ h1{
+     color:white;
+     text-align: center;  
+ }
+
+ #subHeader{
+    height: 20px;
+    background-color:white;
+    color: black;
+    text-align: center;
+ }
+
+ .blue{
+     background-color: blue;
+ }
+
+ 
